@@ -1,0 +1,55 @@
+# Adult Disability Payment - Knowledge Base
+
+## Overview
+The Adult Disability Payment is a financial benefit in Scotland that supports individuals with additional needs due to physical or mental disabilities, health conditions, or terminal illnesses. It has replaced the Personal Independence Payment (PIP) in Scotland.
+
+## Eligibility
+- Age: Must be between 16 and State Pension Age.
+- Diagnosis: You can apply even if you are waiting for a diagnosis.
+- Means Testing: This benefit is not means-tested, meaning your income or savings do not affect your eligibility.
+
+## Components
+The payment consists of two components:
+1. **Daily Living Component**
+   - **Standard Award**: £72.65 per week
+   - **Enhanced Award**: £108.55 per week
+   - Automatically awarded to individuals with a terminal illness.
+
+   **Qualifying Activities** may include:
+   - Preparing food
+   - Managing therapy
+   - Personal hygiene
+   - Dressing and undressing
+   - Communicating and engaging socially
+   - Budgeting decisions
+
+2. **Mobility Component**
+   - **Standard Award**: £28.70 per week
+   - **Enhanced Award**: £75.75 per week
+
+## Application Process
+- **Existing Recipients**: If you are already receiving PIP or Disability Living Allowance (DLA), you do not need to reapply. Your benefits will be transferred to the Adult Disability Payment automatically.
+  
+- **First-Time Applicants**: The application process is in two stages. For terminally ill individuals, there is a streamlined one-stage process.
+  - **Online Application**: Apply through the Social Security Scotland website.
+  - **Phone Application**: Call Social Security Scotland at 0800 182 2222 (8am to 6pm, Monday to Friday). British Sign Language users can use video relay services.
+
+## Decision Notification
+- After processing your application, you will receive a decision letter (notice of determination) detailing:
+  - Which components you qualify for (daily living, mobility, or both).
+  - The amount awarded for each component.
+  - A breakdown of points awarded for each activity.
+
+## Reconsideration of Decisions
+If your application is unsuccessful, you can request a review of the decision if you believe it is incorrect. This can be done by:
+- Calling Social Security Scotland at 0800 182 2222.
+- Completing a review request form sent with your decision letter.
+
+## Additional Support
+- For assistance with transport costs or to inquire about a Companion Card, contact your local authority.
+- Help is available through Social Security Scotland’s Local Delivery service for applying and understanding benefits.
+
+## Language Support
+If you need to apply in a language other than English, interpreter services are available for over 100 languages.
+
+For more information or to check your benefits, visit the Social Security Scotland website or contact their advisers.

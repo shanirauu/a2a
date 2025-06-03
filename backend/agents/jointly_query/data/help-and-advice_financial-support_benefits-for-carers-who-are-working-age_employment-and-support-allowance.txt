@@ -1,0 +1,57 @@
+# Employment and Support Allowance (ESA)
+
+## Overview
+Employment and Support Allowance (ESA) is a financial benefit designed for individuals who are unable to work due to illness or disability. It provides monetary support to help with living costs and offers assistance for returning to work if possible.
+
+## Eligibility
+You can apply for ESA if:
+- You have an illness or disability that affects your ability to work.
+- You are employed, unemployed, or self-employed.
+- You are not currently claiming Statutory Sick Pay or Jobseeker’s Allowance.
+
+### Types of ESA
+1. **New Style ESA**: 
+   - Most new claims are for this type.
+   - Requires sufficient National Insurance contributions in the last 2-3 years.
+   - National Insurance credits are also considered.
+
+2. **Income-Related ESA**: 
+   - Available if you have low income or no income.
+   - May be applicable if you qualify for a severe disability premium.
+
+3. **Contribution-Based ESA**: 
+   - Available if you have paid enough National Insurance contributions.
+
+### Important Notes
+- You cannot receive New Style ESA if you are getting a severe disability premium.
+- You may receive Universal Credit for additional costs such as housing or childcare.
+
+## Financial Support
+- While your claim is being assessed, you may receive:
+  - Up to £90.50 per week if over 25.
+  - Up to £71.70 per week if under 25.
+  
+- After assessment, you could receive:
+  - Up to £90.50 per week in the work-related activity group.
+  - Up to £142.25 per week in the support group.
+
+- Additional premiums may be available for carers, disabled individuals, or if your partner is a pensioner.
+
+## Application Process
+- To claim New Style ESA, apply online or call the Universal Credit helpline at 0800 328 5644 (select the option for New Style ESA).
+- For old types of ESA (income-related or contribution-based), contact Jobcentre Plus at 0800 169 0350.
+
+### Assessment
+- A medical assessment (Work Capability Assessment) may be required to evaluate your work capability.
+- You will also need to complete a 'capability for work' questionnaire.
+- Following assessment, you will be placed in one of two groups:
+  - **Work-related group**: Expected to prepare for work (ESA limited to one year).
+  - **Support group**: Not expected to prepare for work (no time limit on ESA).
+
+## Reporting Changes
+Notify the relevant benefits office if your circumstances change:
+- England, Wales, and Scotland: Call Jobcentre Plus at 0800 169 0310.
+- Northern Ireland: Contact the appropriate benefits office.
+
+## Appeals
+If you disagree with a decision, request a mandatory reconsideration. If the outcome remains unchanged, you can appeal the decision.

@@ -1,0 +1,120 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Streaming News UI</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        #output { white-space: pre-wrap; overflow-y: auto; max-height: 400px; }
+        .streaming-chunk { border-left: 4px solid #3b82f6; padding-left: 8px; margin-bottom: 8px; }
+        .error { border-left: 4px solid #ef4444; padding-left: 8px; margin-bottom: 8px; }
+        .completion { border-left: 4px solid #10b981; padding-left: 8px; margin-bottom: 8px; }
+        .info { border-left: 4px solid #f59e0b; padding-left: 8px; margin-bottom: 8px; }
+    </style>
+</head>
+<body class="bg-gray-100 flex items-center justify-center min-h-screen">
+    <div class="bg-white p-6 rounded-lg shadow-lg w-full max-w-2xl">
+        <h1 class="text-2xl font-bold mb-4 text-center">Streaming News Agent</h1>
+        <div class="mb-4">
+            <input
+                id="query"
+                type="text"
+                placeholder="Enter streaming query (e.g., live sports news updates)"
+                class="w-full p-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+            />
+        </div>
+        <div class="mb-4">
+            <button
+                id="send"
+                class="w-full bg-blue-500 text-white p-2 rounded-md hover:bg-blue-600 disabled:bg-gray-400"
+                disabled
+            >
+                Send Query
+            </button>
+        </div>
+        <div class="mb-4">
+            <div id="status" class="text-sm text-gray-600">Connecting...</div>
+        </div>
+        <div id="output" class="bg-gray-50 p-4 rounded-md border"></div>
+    </div>
+    <script>
+        const ws = new WebSocket('ws://localhost:8080/ws');
+        const queryInput = document.getElementById('query');
+        const sendButton = document.getElementById('send');
+        const statusDiv = document.getElementById('status');
+        const outputDiv = document.getElementById('output');
+
+        ws.onopen = () => {
+            statusDiv.textContent = 'Connected to HostAgent';
+            statusDiv.className = 'text-sm text-green-600';
+            sendButton.disabled = false;
+            appendOutput('WebSocket connection established', 'info');
+        };
+
+        ws.onmessage = (event) => {
+            try {
+                const data = JSON.parse(event.data);
+                if (data.status === 'processing') {
+                    appendOutput(data.message, 'info');
+                    return;
+                }
+                if (data.error) {
+                    appendOutput(`Error: ${data.error}`, 'error');
+                    return;
+                }
+                if (data.result && data.result.status && data.result.status.message) {
+                    const parts = data.result.status.message.parts;
+                    const text = parts.find(p => p.type === 'text')?.text || 'No text content';
+                    const isFinal = data.result.final || false;
+                    appendOutput(text, isFinal ? 'completion' : 'streaming-chunk');
+                } else if (data.message && data.message.includes('TaskStatusUpdateEvent')) {
+                    appendOutput(`Server Error: ${data.message}`, 'error');
+                } else {
+                    appendOutput(JSON.stringify(data, null, 2), 'info');
+                }
+            } catch (e) {
+                appendOutput(`Parse error: ${e.message}`, 'error');
+            }
+        };
+
+        ws.onerror = (error) => {
+            statusDiv.textContent = 'WebSocket error';
+            statusDiv.className = 'text-sm text-red-600';
+            appendOutput(`WebSocket error: ${error.message || 'Unknown error'}`, 'error');
+        };
+
+        ws.onclose = () => {
+            statusDiv.textContent = 'Disconnected from HostAgent';
+            statusDiv.className = 'text-sm text-red-600';
+            sendButton.disabled = true;
+            appendOutput('WebSocket disconnected', 'error');
+        };
+
+        sendButton.onclick = () => {
+            const query = queryInput.value.trim();
+            if (!query) {
+                appendOutput('Please enter a query', 'error');
+                return;
+            }
+            const message = { query, stream: true };
+            ws.send(JSON.stringify(message));
+            appendOutput(`Sent: ${query}`, 'info');
+            queryInput.value = '';
+        };
+
+        queryInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') sendButton.click();
+        });
+
+        function appendOutput(text, className) {
+            const div = document.createElement('div');
+            div.className = className;
+            div.textContent = text;
+            outputDiv.appendChild(div);
+            outputDiv.scrollTop = outputDiv.scrollHeight;
+        }
+    </script>
+</body>
+</html>

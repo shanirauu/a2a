@@ -1,0 +1,62 @@
+# Housing Benefit
+
+## What is Housing Benefit?
+Housing Benefit is financial support for individuals on a low income to help with rent payments. It is administered by local councils or the Housing Executive office in Northern Ireland. 
+
+## Eligibility Criteria
+You may be eligible to claim Housing Benefit if:
+- You (and any partner) have reached State Pension age.
+- You or your partner have been claiming Pension Credit since before 15 May 2019.
+- You receive Severe Disability Premium with one of your benefits.
+- You are in sheltered or supported housing or temporary accommodation.
+
+If you do not qualify for Housing Benefit, you may be able to claim Universal Credit.
+
+### General Eligibility Requirements
+To qualify for Housing Benefit, you must:
+- Have a low income or claim other benefits.
+- Have less than £16,000 in savings (or be claiming Guarantee Pension Credit).
+- Be at least 16 years old (or 18 if you’ve been in care).
+- Be habitually resident in the UK.
+
+### Ineligibility Conditions
+You are unlikely to qualify if:
+- You are a student.
+- You pay rent to a close relative living with you.
+- You pay rent to a care home or employer as part of your job.
+
+## Amount of Housing Benefit
+Housing Benefit can cover all or part of your rent, depending on:
+- Where you live.
+- Who you live with.
+- Your income and savings.
+- Whether you are a council, housing association, or private tenant.
+
+### Specific Considerations
+- If you rent from a council or housing association, the amount depends on your eligible rent (actual rent plus any service charges) and whether you have spare bedrooms.
+- If you rent privately, your eligible rent is either your Local Housing Allowance (LHA) rate or your actual rent, whichever is lower.
+
+## Impact of Household Income
+Your Housing Benefit may be reduced if your household income exceeds:
+- £6,000 (or £10,000 if you’re over State Pension age).
+
+## Benefit Cap
+The benefit cap limits the total amount of benefits you can receive, which may affect your Housing Benefit. Exceptions apply for those receiving Carer’s Allowance or disability benefits.
+
+## How to Apply
+- In England, Wales, or Scotland, you can obtain a claim form from your local council.
+- In Northern Ireland, call the Housing Executive at 03448 920 902 or visit your local office.
+
+You can also apply for Housing Benefit when applying for other benefits, such as Employment and Support Allowance or Jobseeker’s Allowance.
+
+## Backdating Claims
+- If you are of working age, you can backdate your claim for up to one month with a valid reason.
+- If you are of State Pension age, you can backdate for up to three months without needing to provide a reason.
+
+## Discretionary Housing Payments (DHP)
+If you are struggling to pay your rent despite receiving Housing Benefit, you can apply for a DHP from your local council. DHPs do not need to be repaid and can also assist with deposits or rent in advance.
+
+## Challenging a Decision
+If you disagree with a Housing Benefit decision, you can appeal within one month of the decision letter. Submit your appeal to your council or Housing Executive, including an explanation and any supporting evidence. If unsatisfied with the response, you can escalate the matter to an independent tribunal.
+
+For further assistance or advice, consider contacting relevant support services.

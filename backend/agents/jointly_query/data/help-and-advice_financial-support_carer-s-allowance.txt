@@ -1,0 +1,59 @@
+### Knowledge Base: Carer's Allowance for Customer Care Chatbot
+
+#### Introduction
+Content: Carer's Allowance is the main UK benefit for carers who look after someone for 35+ hours a week. It’s available in England, Wales, Scotland, and Northern Ireland, with some differences in Scotland (e.g., Carer Support Payment is replacing it).
+
+#### What is Carer's Allowance?
+Content: Carer's Allowance pays £81.90 per week (reviewed each April) to support carers. It’s not based on your income or savings, but you can’t earn more than £151/week after deductions (tax, National Insurance, half of pension contributions). It’s taxable, so inform HMRC if you have other taxable income. If you get means-tested benefits, it counts as income but adds a carer premium (£45.60/week) or element (£198.31/month for Universal Credit). In Scotland, you might also get a Carer's Allowance Supplement twice a year (June and December) if eligible on qualifying dates (April and October).
+
+#### Who Can Claim Carer's Allowance?
+Content: You can claim Carer's Allowance if: 
+- You care for someone 35+ hours/week who gets a disability benefit (e.g., PIP daily living, DLA care middle/higher rate, Attendance Allowance).
+- You’re 16 or older (apply up to 3 months before turning 16).
+- You’re not in full-time education (21+ hours/week of supervised study).
+- You earn £151 or less/week after deductions.
+- You’ve lived in Great Britain 2 of the last 3 years and normally live in the UK, Channel Islands, Isle of Man, or Ireland.
+Notes: 
+- In Scotland, Carer Support Payment is phasing in—check mygov.scot/carer-support-payment. 
+- If aged 16-18 and ineligible, ask about the Young Carers Grant at carersuk.org/scotland.
+
+#### Carer's Allowance and Other Benefits
+Content: Carer's Allowance affects other benefits:
+- Can’t be paid with State Pension, Incapacity Benefit, or similar if they’re £81.90+ (overlapping rule), but you might still qualify for an underlying entitlement to boost means-tested benefits (e.g., Pension Credit with a £45.60/week carer addition).
+- If State Pension is less than £81.90, you could get a top-up.
+- For means-tested benefits (e.g., Universal Credit), it’s income but adds a carer premium/element, usually increasing your total income.
+- The person you care for keeps their disability benefit/State Pension, but if they get a severe disability premium (£81.50/week) in means-tested benefits, they’ll lose it if you’re paid Carer's Allowance.
+Tip: Check with us if unsure—email advice@carersuk.org.
+
+#### Protecting Your National Insurance Record
+Content: Carer's Allowance gives you a weekly National Insurance (NI) credit for your State Pension. If you can’t claim it, apply for Carer's Credit if you care 20+ hours/week for someone with a disability benefit (or if a professional certifies your care). Credits cover up to 12 weeks before/after Carer's Allowance. Contact the Carer's Allowance Unit at 0800 731 0297.
+
+#### How to Claim Carer's Allowance
+Content: To claim Carer's Allowance:
+- England, Wales, Scotland: Apply online at gov.uk/carers-allowance/how-to-claim or call 0800 731 0297 for a form (DS700, or DS700(SP) if on State Pension).
+- Northern Ireland: Apply at nidirect.gov.uk/articles/carers-allowance or call 0800 587 0912.
+- Backdate up to 3 months (or more if tied to a disability benefit decision)—request this on the form.
+- Apply 3 months early if you’ll soon qualify—payment starts when eligible.
+
+#### The Decision
+Content: You’ll get a letter saying if you’re awarded Carer's Allowance (or just an underlying entitlement) and when it starts. Keep it as proof of your caring role.
+
+#### Challenging the Decision
+Content: If denied, ask for a reconsideration within 1 month (mandatory reconsideration), then appeal to a tribunal if needed. Act fast—email advice@carersuk.org for help.
+
+#### What to Do If Your Circumstances Change
+Content: Tell us about changes ASAP at gov.uk/carers-allowance-report-change or 0800 731 0297 to avoid overpayments.
+- Breaks: Get it for 4 weeks in any 26-week period (after caring 22/26 weeks); up to 12 weeks if you’re hospitalized.
+- Abroad: Paid if caring abroad with the person (up to 26 weeks if their benefit continues), or 4 weeks otherwise.
+- Their Hospital Stay: Paid up to 12 weeks or until their benefit stops (28 days for adults, longer for kids under 18 if you still care 35+ hours).
+- Residential Care: Paid only if their benefit continues and you care 35+ hours.
+- Their Death: Paid up to 8 weeks if you still meet rules; means-tested extras may last 8 weeks too.
+
+#### Further Help
+Content: Need more info? 
+- Visit carersuk.org or call 0808 808 7777 (Mon-Fri, 9am-6pm).
+- Email advice@carersuk.org.
+- Other help: Citizens Advice (citizensadvice.org.uk), Age UK (0800 678 1602), or local benefit helplines.
+
+#### Additional Information
+Content: This info, updated April 2024, guides you on Carer's Allowance. Rules can change—check carersuk.org or call 0808 808 7777 for the latest.

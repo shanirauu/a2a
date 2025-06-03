@@ -1,0 +1,154 @@
+{
+  "id": "b9680c4e-1866-4fd1-b6c9-4fd592fb5ced",
+  "sessionId": "c785d1f5-e9e6-422d-a6c2-1b9387a8545c",
+  "status": {
+    "state": "working",
+    "timestamp": "2025-05-26T15:37:45.282266"
+  },
+  "history": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "type": "text",
+          "text": "latest news on AI"
+        }
+      ],
+      "metadata": {
+        "conversation_id": "c785d1f5-e9e6-422d-a6c2-1b9387a8545c",
+        "message_id": "636cfbe3-9e0a-4db8-821c-249f0155710d"
+      }
+    }
+  ]
+}
+
+{
+  "id": "b9680c4e-1866-4fd1-b6c9-4fd592fb5ced",
+  "sessionId": "c785d1f5-e9e6-422d-a6c2-1b9387a8545c",
+  "status": {
+    "state": "completed",
+    "message": {
+      "role": "agent",
+      "parts": [
+        {
+          "type": "text",
+          "text": "The latest news on AI is titled: **\"Breaking: Major Advances in AI Technology Transforming Industries.\"** Recent breakthroughs in artificial intelligence are revolutionizing sectors such as healthcare, finance, and transportation, enhancing efficiency and decision-making. Experts predict that these advancements will significantly reshape job markets and societal interactions in the coming years."
+        }
+      ]
+    },
+    "timestamp": "2025-05-26T15:37:51.969196"
+  },
+  "artifacts": [
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "The latest news on AI is titled: **\"Breaking: Major Advances in AI Technology Transforming Industries.\"** Recent breakthroughs in artificial intelligence are revolutionizing sectors such as healthcare, finance, and transportation, enhancing efficiency and decision-making. Experts predict that these advancements will significantly reshape job markets and societal interactions in the coming years."
+        }
+      ],
+      "index": 0
+    }
+  ],
+  "history": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "type": "text",
+          "text": "latest news on AI"
+        }
+      ],
+      "metadata": {
+        "conversation_id": "c785d1f5-e9e6-422d-a6c2-1b9387a8545c",
+        "message_id": "636cfbe3-9e0a-4db8-821c-249f0155710d"
+      }
+    },
+    {
+      "role": "agent",
+      "parts": [
+        {
+          "type": "text",
+          "text": "The latest news on AI is titled: **\"Breaking: Major Advances in AI Technology Transforming Industries.\"** Recent breakthroughs in artificial intelligence are revolutionizing sectors such as healthcare, finance, and transportation, enhancing efficiency and decision-making. Experts predict that these advancements will significantly reshape job markets and societal interactions in the coming years."
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "id": "561288bf-9111-4ebd-8d7a-b774aa83569a",
+  "sessionId": "c785d1f5-e9e6-422d-a6c2-1b9387a8545c",
+  "status": {
+    "state": "working",
+    "timestamp": "2025-05-26T15:38:28.209407"
+  },
+  "history": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "type": "text",
+          "text": "latest news on sports"
+        }
+      ],
+      "metadata": {
+        "conversation_id": "c785d1f5-e9e6-422d-a6c2-1b9387a8545c",
+        "message_id": "fa25ff08-28ed-4440-991a-4a2db2fdbd85"
+      }
+    }
+  ]
+}
+
+{
+  "id": "561288bf-9111-4ebd-8d7a-b774aa83569a",
+  "sessionId": "c785d1f5-e9e6-422d-a6c2-1b9387a8545c",
+  "status": {
+    "state": "completed",
+    "message": {
+      "role": "agent",
+      "parts": [
+        {
+          "type": "text",
+          "text": "The latest news on sports is titled: **\"Breaking: Major League Baseball Playoffs Begin with Exciting Matchups.\"** The MLB playoffs kicked off yesterday, featuring thrilling games as teams vie for a spot in the World Series. Fans are eagerly anticipating matchups that promise high stakes and intense competition."
+        }
+      ]
+    },
+    "timestamp": "2025-05-26T15:38:35.918297"
+  },
+  "artifacts": [
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "The latest news on sports is titled: **\"Breaking: Major League Baseball Playoffs Begin with Exciting Matchups.\"** The MLB playoffs kicked off yesterday, featuring thrilling games as teams vie for a spot in the World Series. Fans are eagerly anticipating matchups that promise high stakes and intense competition."
+        }
+      ],
+      "index": 0
+    }
+  ],
+  "history": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "type": "text",
+          "text": "latest news on sports"
+        }
+      ],
+      "metadata": {
+        "conversation_id": "c785d1f5-e9e6-422d-a6c2-1b9387a8545c",
+        "message_id": "fa25ff08-28ed-4440-991a-4a2db2fdbd85"
+      }
+    },
+    {
+      "role": "agent",
+      "parts": [
+        {
+          "type": "text",
+          "text": "The latest news on sports is titled: **\"Breaking: Major League Baseball Playoffs Begin with Exciting Matchups.\"** The MLB playoffs kicked off yesterday, featuring thrilling games as teams vie for a spot in the World Series. Fans are eagerly anticipating matchups that promise high stakes and intense competition."
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,37 @@
+# Benefit Cap Overview for Carers
+
+## What is the Benefit Cap?
+The benefit cap is a limit on the total amount of certain benefits that a non-working or low-earning household can receive. A household is defined as an adult, their partner (if applicable), and any dependent children. Other relatives living in the same home are not considered part of the household for this purpose.
+
+## Who Does the Benefit Cap Apply To?
+The benefit cap applies to "working-age households" and can reduce the amount of Housing Benefit or Universal Credit awarded for housing costs. If you are not receiving Housing Benefit or Universal Credit, the cap does not apply.
+
+## Benefit Cap Amounts
+The cap amounts vary based on location and household composition:
+
+### Outside London:
+- **Couples (with or without children) or single claimants with a qualifying child:** £423.46 per week (£22,020 per year)
+- **Single adults without children:** £283.71 per week (£14,753 per year)
+
+### Greater London:
+- **Couples (with or without children) or single claimants with a qualifying child:** £486.98 per week (£25,323 per year)
+- **Single adults without children:** £326.29 per week (£16,967 per year)
+
+## Exemptions from the Benefit Cap
+You may be exempt from the cap if you receive:
+- Carer’s Allowance
+- The underlying entitlement to Carer’s Allowance or a Carer Element within Universal Credit
+
+Additionally, if anyone in your benefit household receives any of the following, the cap will not apply:
+- Working Tax Credit (WTC)
+- The support component of Employment and Support Allowance
+- The limited capability for work and work-related activity element of Universal Credit
+- Disability Living Allowance (DLA) or Personal Independence Payment (PIP)
+- Attendance Allowance
+- Industrial Injuries Benefit (or equivalent payments)
+- War widow’s or widower’s pension
+- Guardian's Allowance (in England, Wales, and Scotland since November 7, 2016)
+- Housing Benefit while living in "exempt accommodation" (e.g., temporary local authority accommodation or a refuge)
+
+## Grace Period
+A grace period of 39 weeks may apply if you or your partner were employed and earning above a certain threshold for at least 50 weeks out of the last 52 weeks before the last day of work, and you were not receiving Jobseeker’s Allowance, Income Support, or Employment and Support Allowance.

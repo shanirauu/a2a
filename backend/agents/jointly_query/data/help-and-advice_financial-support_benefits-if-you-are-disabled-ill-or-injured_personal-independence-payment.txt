@@ -1,0 +1,70 @@
+# Personal Independence Payment (PIP)
+
+## Overview
+Personal Independence Payment (PIP) provides financial support for individuals with long-term physical or mental illnesses or disabilities. Eligibility is based on how these conditions affect daily living and mobility, rather than income or savings.
+
+## Eligibility Criteria
+You may qualify for PIP if you meet the following:
+- Aged 16 to under State Pension age.
+- Have a long-term illness, health condition, or disability.
+- Experience difficulties with daily tasks or mobility for at least three months, with expectations of continuing for at least nine months.
+- Meet residency and immigration conditions.
+
+**Note:** If you are over State Pension age, you cannot make a new claim for PIP, but you can continue receiving it if already awarded. 
+
+## PIP Components
+PIP has two components:
+1. **Daily Living Component**
+   - Standard Rate: £72.65 per week
+   - Enhanced Rate: £108.55 per week
+2. **Mobility Component**
+   - Standard Rate: £28.70 per week
+   - Enhanced Rate: £75.75 per week
+
+### Daily Living Activities Include:
+- Preparing or eating food
+- Washing, bathing, and using the toilet
+- Dressing and undressing
+- Reading and communicating
+- Managing medications
+- Making financial decisions
+- Engaging with others
+
+### Mobility Activities Include:
+- Moving around without severe discomfort
+- Planning and following a journey
+
+## Application Process
+### Steps to Claim PIP:
+1. **Initial Claim**: Call the Department of Work and Pensions (DWP) at 0800 917 2222 (or PIP Centre in Northern Ireland at 0800 012 1573). 
+2. **Eligibility Check**: DWP will send a form titled "How your disability affects you."
+3. **Complete the Form**: Take your time to fill it out. You may seek assistance from local advice agencies.
+
+### Important Tips:
+- Include evidence such as medical reports or statements from caregivers.
+- Keep a copy of your form and any submitted evidence.
+- Return the form within one month, or request an extension if needed.
+
+### After Submission:
+- You may need to attend a medical assessment.
+- A letter will be sent detailing the decision and amount awarded.
+- Regular reassessments will occur to determine ongoing eligibility.
+
+## Changes in Circumstances
+Notify DWP of any changes that may affect your PIP, including:
+- Changes in your health condition
+- Hospital stays longer than 28 days
+- Changes in personal circumstances (e.g., address, name)
+
+## Additional Benefits
+- Receiving PIP may increase your eligibility for other means-tested benefits.
+- PIP recipients may qualify for transport-related benefits such as:
+  - **Motability Scheme**: Use PIP mobility component for vehicle leasing.
+  - **Blue Badge Scheme**: Parking privileges for those with mobility issues.
+  - **Public Transport Concessions**: Reduced fares on public transport.
+
+## Resources
+- For further assistance, consult local advice agencies or visit the Citizens Advice website.
+- Download the PIP factsheet for more detailed information.
+
+For more information, visit the [Carers UK PIP Page](https://www.carersuk.org/help-and-advice/financial-support/benefits-if-you-are-disabled-ill-or-injured/personal-independence-payment/).

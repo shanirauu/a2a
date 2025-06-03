@@ -1,0 +1,110 @@
+{
+  "jsonrpc": "2.0",
+  "id": "1",
+  "result": {
+    "id": "9c151175-8c8b-4773-87f2-24ce23a3a136",
+    "sessionId": "3c362704-2c02-45b5-8048-2b0e1625b81b",
+    "message": "\ud83d\udd0d Fetching the latest news...",
+    "index": 0
+  }
+}
+{
+  "jsonrpc": "2.0",
+  "id": "1",
+  "result": {
+    "id": "9c151175-8c8b-4773-87f2-24ce23a3a136",
+    "sessionId": "3c362704-2c02-45b5-8048-2b0e1625b81b",
+    "message": "\ud83d\udcf0 Update: Breaking: Surge in Streaming Sports Subscriptions Amid Changing Viewing Habits\nAs traditional cable subscriptions decline, streaming services are witnessing a significant uptick in sports viewership, driven by younger audiences seeking flexible and on-demand access to live events. Major leagues are adapting their distribution strategies to capitalize on this trend, offering exclusive content through digital platforms.",
+    "index": 1
+  }
+}
+{
+  "jsonrpc": "2.0",
+  "id": "1",
+  "result": {
+    "id": "9c151175-8c8b-4773-87f2-24ce23a3a136",
+    "sessionId": "3c362704-2c02-45b5-8048-2b0e1625b81b",
+    "message": "\ud83d\udcf0 Update: Breaking: New Innovations Transforming the Future of Sports Streaming\nRecent advancements in technology are revolutionizing sports streaming, with features like augmented reality stats, personalized viewing experiences, and enhanced interactivity for fans. These innovations aim to engage audiences more deeply and provide a more immersive experience during live events.",
+    "index": 2
+  }
+}
+{
+  "jsonrpc": "2.0",
+  "id": "1",
+  "result": {
+    "id": "9c151175-8c8b-4773-87f2-24ce23a3a136",
+    "sessionId": "3c362704-2c02-45b5-8048-2b0e1625b81b",
+    "message": "\ud83d\udcf0 Update: Breaking: Major Networks Expand Streaming Options for Sports Fans\nIn a bid to attract a larger audience, major sports networks are enhancing their streaming platforms, offering more live events and exclusive content. This shift is expected to revolutionize how fans engage with their favorite sports teams and events.",
+    "index": 3
+  }
+}
+{
+  "jsonrpc": "2.0",
+  "id": "1",
+  "result": {
+    "id": "9c151175-8c8b-4773-87f2-24ce23a3a136",
+    "sessionId": "3c362704-2c02-45b5-8048-2b0e1625b81b",
+    "message": "All news updates completed.",
+    "index": 0
+  }
+}
+{
+  "jsonrpc": "2.0",
+  "id": "1",
+  "result": {
+    "id": "e1dc3d5f-3e4b-4575-81bd-f59fb032223c",
+    "sessionId": "c8cf5eb1-56e5-4efd-9373-d42d709ca776",
+    "message": "\ud83d\udd0d Fetching the latest news...",
+    "index": 0
+  }
+}
+{
+  "jsonrpc": "2.0",
+  "id": "1",
+  "result": {
+    "id": "e1dc3d5f-3e4b-4575-81bd-f59fb032223c",
+    "sessionId": "c8cf5eb1-56e5-4efd-9373-d42d709ca776",
+    "message": "\ud83d\udcf0 Update: Breaking: Surge in Streaming Platforms Revolutionizes Sports Viewership\nThe latest trends in sports streaming reveal a significant shift towards digital platforms, with viewers increasingly favoring subscription-based services over traditional cable. This transition is reshaping the sports broadcasting landscape, offering fans more flexible viewing options and access to a wider range of events.",
+    "index": 1
+  }
+}
+{
+  "jsonrpc": "2.0",
+  "id": "1",
+  "result": {
+    "id": "e1dc3d5f-3e4b-4575-81bd-f59fb032223c",
+    "sessionId": "c8cf5eb1-56e5-4efd-9373-d42d709ca776",
+    "message": "\ud83d\udcf0 Update: Breaking: Major Innovations Transforming Live Sports Streaming Experience\nRecent advancements in streaming technology are revolutionizing how fans engage with live sports, featuring enhanced interactive features and improved accessibility. These innovations aim to provide a more immersive experience, catering to the evolving preferences of sports audiences worldwide.",
+    "index": 2
+  }
+}
+{
+  "jsonrpc": "2.0",
+  "id": "1",
+  "result": {
+    "id": "e1dc3d5f-3e4b-4575-81bd-f59fb032223c",
+    "sessionId": "c8cf5eb1-56e5-4efd-9373-d42d709ca776",
+    "message": "\ud83d\udcf0 Update: Breaking: Major Networks Expand Live Streaming Options for Sports Fans\nIn a significant move to cater to the growing demand for on-the-go access, major sports networks are enhancing their live streaming platforms, allowing fans to watch events from anywhere. This expansion includes exclusive content and features aimed at improving the viewing experience.",
+    "index": 3
+  }
+}
+{
+  "jsonrpc": "2.0",
+  "id": "1",
+  "result": {
+    "id": "e1dc3d5f-3e4b-4575-81bd-f59fb032223c",
+    "sessionId": "c8cf5eb1-56e5-4efd-9373-d42d709ca776",
+    "message": "All news updates completed.",
+    "index": 0
+  }
+}
+{
+  "jsonrpc": "2.0",
+  "id": "1",
+  "result": {
+    "id": "d8dbbecc-1abe-4839-a82a-df589dd78492",
+    "sessionId": "8e55ee84-5b08-49a4-97d3-07bbaf3b78c0",
+    "message": "\ud83d\udd0d Fetching the latest news...",
+    "index": 0
+  }
+}

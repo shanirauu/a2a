@@ -1,0 +1,43 @@
+# NHS Continuing Healthcare
+
+## Overview
+NHS Continuing Healthcare provides free social care for individuals with long-term, complex health needs. This care is funded by the NHS and can cover various services, including care home fees.
+
+## Eligibility
+- **Who qualifies?**
+  - Adults with a primary health need, where health issues are the most significant aspect of their care.
+  - It is not means-tested; financial status does not affect eligibility.
+
+- **Assessment Process**
+  - Initial assessment using the Checklist Tool to evaluate health needs in areas such as:
+    - Mobility
+    - Breathing
+    - Continence
+    - Communication
+    - Nutrition
+    - Skin (wounds and ulcers)
+    - Psychological and emotional needs
+    - Symptom control
+    - Cognition
+    - Other significant care needs
+  - If eligible, a detailed assessment is conducted by health and social care professionals.
+
+## Care Arrangement
+- Care can be arranged either in a care home or at home, based on assessed needs.
+- A care and support package will be reviewed after three months and annually thereafter.
+
+## Additional Support
+- If denied NHS Continuing Healthcare, individuals may still qualify for NHS-funded nursing care or other NHS services (e.g., respite care, palliative care).
+- For terminally ill individuals, a Fast Track Pathway may expedite the assessment process, ensuring care is arranged within two days.
+
+## Regional Variations
+- NHS Continuing Healthcare is available in England, Wales, and Northern Ireland. Scotland has a different system called Hospital Based Complex Clinical Care, which applies only to patients requiring hospital care.
+
+## Resources
+- For assistance, individuals can contact:
+  - **Beacon**: Offers up to 90 minutes of free advice and paid services. Visit their website or call 0345 548 0300.
+  - **Local Healthwatch**: For information on local NHS independent advocacy services. Call 03000 683 000.
+  - **Helpline Team**: For specific queries, individuals can email or call the helpline for guidance.
+
+## Conclusion
+Understanding NHS Continuing Healthcare is crucial for caregivers and individuals with complex health needs to ensure they receive the support they are entitled to.
